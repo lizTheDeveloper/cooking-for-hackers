@@ -1,9 +1,9 @@
 {
-	title: "Leftover fried rice",
-	serves: "variable",
-	ingredients: ["cooked rice, the drier the better, within reason", "vegetables close to being not usable or whatever", "leftovers from previous meals that seem suitable", "frying oil (prefer coconut)", "soy sauce"],
-	tools: ["Frying pan (large)", "something to stir rice with", "ingredient bowls"],
-	type: "entire meal"
+	"title": "Leftover fried rice",
+	"serves": "variable",
+	"ingredients": ["cooked rice, the drier the better, within reason", "vegetables close to being not usable or "whatever", "leftovers from previous meals that seem suitable", "frying oil (prefer coconut)", "soy sauce"],
+	"tools": ["Frying pan (large)", "something to stir rice with", "ingredient bowls"],
+	"type": "entire meal"
 } 
 
 Start by looking through the fridge. Any veggies look like they're close to rotting / shriveling up? Pull those out and set them on the counter. 

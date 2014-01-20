@@ -1,12 +1,12 @@
 {
-	title: "Grilled Carrots and Mushrooms",
-	serves: "2.3",
-	ingredients: ["carrots (bigass)(", "mushrooms", "balsamic vinegar", "olive oil", "soy sauce"],
-	tools: ["Frying pan (large)", "something move veggies around with on a hot surface", "ingredient bowls", "mandolin"],
-	type: "side dish"
+	"title": "Grilled Carrots and Mushrooms",
+	"serves": "2.3",
+	"ingredients": ["carrots (bigass)", "mushrooms", "balsamic vinegar", "olive oil", "soy sauce"],
+	"tools": ["Frying pan (large)", "something move veggies around with on a hot surface", "ingredient bowls", "mandolin"],
+	"type": "side dish"
 } 
 
-Slice some bigass carrots, maybe two or three, on your mandolin on the "thin slices" setting. What's that you say? You don't have a mandolin? Get your ass a mandolin. How the fuck do you slice veggies without a mandolin? With a knife? Get the fuck out of there with that amateur shit.
+Slice some bigass carrots, maybe two or three, on your mandolin on the "thin slices" setting. What's that you say? You don't have a mandolin? Get your ass a mandolin. How the fuck do you slice veggies without a mandolin? With a knife? Get the fuck out of here with that amateur shit.
 
 Grab some mushrooms. Like, a handful, maybe more depending on how much you like mushrooms.
 

@@ -1,9 +1,9 @@
 {
-	title: "Artichokes and dip",
-	serves: "however many artichokes you have",
-	ingredients: ["artichokes", "1 garlic clove", "a savory, strong-smelling spice (like bay leaves, or fenugreek", "veganaise", "something spicy", "balsamic vinegar"],
-	tools: ["steamer basket", "kitchen scisors", "a sharp chef knife"],
-	type: "entree"
+	"title": "Artichokes and dip",
+	"serves": "however many artichokes you have",
+	"ingredients": ["artichokes", "1 garlic clove", "a savory, strong-smelling spice (like bay leaves, or fenugreek", "veganaise", "something spicy", "balsamic vinegar"],
+	"tools": ["steamer basket", "kitchen scisors", "a sharp chef knife"],
+	"type": "entree"
 }
 
 This is a pretty fire-and-forget-but-set-a-timer-on-your-phone-because-you-will-actually-forget kind of recipe. Like it takes 45 entire minutes. That's a lot of minutes. 
