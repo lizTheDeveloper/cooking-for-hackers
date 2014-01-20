@@ -38,10 +38,13 @@ while user_input != "quit":
 
     if user_input.isnumeric():
 
-        print "Title: %s"
-        print "Serves %s"
-        for ingredient in 
-        print "Ingredients %s"
-        print "Serves %s"
-        print "Serves %s"
-        print "Serves %s"
+        
+
+
+def getRecipeById(_id):
+    return recipes_by_title[recipes_by_index[_id]]
+
+def printFormattedRecipe(_id):
+    ##Recipe is formatted as a dictionary
+    print "Title: %s" 
+    print "Serves %s" 

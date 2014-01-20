@@ -6,6 +6,8 @@ It has a python script that can like, make shopping lists.
 
 Mostly, I just wanted to keep my recipes in text format because building a complicated thing seemed like a lot more work that I wanted to do up front. Maybe this will evolve into something badass, maybe not.
 
+I'm a normal human who works and has friends, so I tend to shop at Trader Joe's and sometimes I use Good Eggs to deliver interesting veggies I can't get there, as well as weird sauces. Most of the stuff I use is attainable if you live in the bay area, for not a zillion dollars. I'll try to mention when to splurge and when to just cheat in the recipes. 
+
 I'm totally taking pull requests. Make sure the recipe has this metadata up front:
 
 {
@@ -19,3 +21,11 @@ I'm totally taking pull requests. Make sure the recipe has this metadata up fron
 Then, describe how to cook it.
 
 Stick a newline at the end of recipes.
+
+#todo
+[] Get cli to display working
+[] Generate a menu
+[] Generate a shopping list
+[] Get search working 
+[] Add dietary metadata so I can add not-vegan things
+[] Add how-to section
