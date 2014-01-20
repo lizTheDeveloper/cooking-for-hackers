@@ -1,7 +1,7 @@
 {
 	"title": "Leftover fried rice",
 	"serves": "variable",
-	"ingredients": ["cooked rice, the drier the better, within reason", "vegetables close to being not usable or "whatever", "leftovers from previous meals that seem suitable", "frying oil (prefer coconut)", "soy sauce"],
+	"ingredients": ["cooked rice, the drier the better, within reason", "vegetables close to being not usable or whatever", "leftovers from previous meals that seem suitable", "frying oil (prefer coconut)", "soy sauce"],
 	"tools": ["Frying pan (large)", "something to stir rice with", "ingredient bowls"],
 	"type": "entire meal"
 } 

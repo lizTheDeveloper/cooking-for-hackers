@@ -1,6 +1,9 @@
 import os
 import json
 
+recipes_by_title = {}
+recipes_by_index = {}
+counter = 0
 for recipe in os.listdir("../recipes"):
     f = open("../recipes/%s" % recipe)
     full_text = f.readlines()
@@ -10,7 +13,7 @@ for recipe in os.listdir("../recipes"):
     for line in full_text:
         if line[0] == "{":
             status = "start"
-            front_matter = "{"
+            front_matter = ""
         if line[0] == "}":
             status = "end"
             front_matter += line
@@ -18,6 +21,27 @@ for recipe in os.listdir("../recipes"):
             front_matter += line
         if status == "end":
             directions += line
-    print front_matter
-    ##front_matter = json.loads(front_matter)
-    ##print front_matter["title"]
+    front_matter = json.loads(front_matter)
+    front_matter["directions"] = directions
+    recipes_by_title[front_matter["title"]] = front_matter
+    recipes_by_index[counter] = front_matter["title"]
+    counter +=1
+
+print "Hello! Here's the recipe index"
+for _id in recipes_by_index.keys():
+    print "%d) %s" % (_id, recipes_by_index[_id])
+
+print "Type the number of the recipe or 'quit' to quit"
+
+while user_input != "quit":
+    user_input = raw_input("> ")
+
+    if user_input.isnumeric():
+
+        print "Title: %s"
+        print "Serves %s"
+        for ingredient in 
+        print "Ingredients %s"
+        print "Serves %s"
+        print "Serves %s"
+        print "Serves %s"
